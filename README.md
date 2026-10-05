@@ -2,23 +2,13 @@
 
 # 👋 Hi, I'm Sanika Gurav
 
-### 🤖 AI Engineer • GenAI Developer • Python Developer
+### 🤖 AI Engineer | GenAI Developer | Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI+that+solves+real-world+problems;Generative+AI+%7C+Agentic+AI+%7C+NLP+%7C+Speech+AI;Python+%7C+FastAPI+%7C+PyTorch+%7C+LLMs;From+Voice+%E2%86%92+Intelligence+%E2%86%92+Action" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems;Generative+AI+%7C+LLMs+%7C+ASR;Speech+AI+%7C+NLP+%7C+Agentic+AI;Turning+AI+Ideas+into+Real+Products" />
 
-<br>
+<br/>
 
-<a href="https://github.com/sanikaDSA">
-<img src="https://komarev.com/ghpvc/?username=sanikaDSA&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/sanikaDSA?tab=followers">
-<img src="https://img.shields.io/github/followers/sanikaDSA?label=Followers&style=for-the-badge&color=111827" />
-</a>
-
-<a href="https://github.com/sanikaDSA?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=sanikaDSA&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -26,338 +16,263 @@
 
 ## 🧠 About Me
 
-```python
-class SanikaGurav:
+I'm an **AI Engineer / GenAI Developer** focused on building practical, production-oriented AI systems using **Python, Generative AI, LLMs, Speech AI, NLP and Deep Learning**.
 
-    role = "AI Engineer / GenAI Developer"
-    education = "MCA — D.Y. Patil Agriculture and Technology University"
-    background = "BCA — Shivaji University"
+Currently, I'm working as an **AI / GenAI Intern**, where I work on real-world AI applications involving:
 
-    interests = [
-        "Generative AI",
-        "Agentic AI",
-        "Speech AI / ASR",
-        "Natural Language Processing",
-        "Computer Vision",
-        "Machine Learning",
-        "AI Automation"
-    ]
+* 🤖 Generative AI & LLM applications
+* 🎙️ Automatic Speech Recognition (ASR)
+* 🗣️ Speaker Diarization
+* 🧠 NLP & multilingual AI
+* ⚙️ AI Automation & Agentic AI
+* 🐍 Python AI development
+* 🔥 PyTorch-based experimentation
+* 🚀 FastAPI & AI backend systems
+* 🌐 Marathi + Hindi + English code-switched speech
 
-    building = [
-        "Voice AI systems",
-        "Doctor–Patient AI systems",
-        "Multilingual AI pipelines",
-        "LLM-powered applications",
-        "Offline / privacy-first AI"
-    ]
-
-    goal = "Build production-ready AI systems that create measurable impact."
-
-    mindset = "Learn → Build → Debug → Optimize → Deploy"
-```
+> **My goal:** Build AI systems that move beyond demos and solve real-world problems.
 
 ---
-
-<div align="center">
 
 ## ⚡ AI ENGINEERING LAB
 
 ```text
-                  ┌─────────────────────┐
-                  │      HUMAN          │
-                  │  Voice / Text / Data│
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       AI ENGINE       │
-                 │                       │
-                 │  🧠 LLMs              │
-                 │  🎙️ Speech AI        │
-                 │  🔤 NLP               │
-                 │  👁️ Computer Vision   │
-                 │  ⚙️ AI Automation     │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                  ┌────────────────────┐
-                  │   INTELLIGENT      │
-                  │      OUTPUT        │
-                  │                    │
-                  │ Summary • Action   │
-                  │ Prediction • Agent │
-                  └────────────────────┘
+                    ┌─────────────────────┐
+                    │   Human Problem     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     AI ENGINE       │
+                    │                     │
+                    │  LLMs • ASR • NLP   │
+                    │  ML • Agents • CV   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Intelligent Output  │
+                    │                     │
+                    │ Automation • Data   │
+                    │ Insights • Actions  │
+                    └─────────────────────┘
 ```
-
-### `VOICE  →  AI  →  UNDERSTANDING  →  ACTION`
-
-</div>
 
 ---
 
 # 🚀 Featured AI Projects
 
-> A selection of systems focused on **Speech AI, Generative AI, healthcare automation and intelligent applications.**
+## 🩺 Diabetes Dost
 
----
+**Multilingual Voice AI for Diabetes Pre-Screening**
 
-## 🩺 Diabetes Dost — Voice AI for Diabetes Pre-Screening
+A voice-based AI assistant designed to collect patient history before a doctor consultation.
 
-### `Speech AI × Healthcare × Multilingual AI × FastAPI`
-
-An AI-powered voice assistant designed to collect patient history before a doctor's consultation.
-
-### 🔥 What it does
-
-* 🎙️ Voice-based patient interaction
-* 🧠 Intelligent question flow
-* 🌐 Hindi + Marathi + English
-* 🔀 Code-switched speech handling
-* 📝 Speech-to-text pipeline
-* 👨‍⚕️ Doctor-ready patient summary
-* 💾 Returning-patient context
-* ⚡ Real-time conversational interaction
-* 🔒 Privacy-focused architecture
-
-### Architecture
+### What it does
 
 ```text
 Patient Voice
-     │
-     ▼
-┌─────────────┐
-│ Audio Input │
-└──────┬──────┘
-       ▼
-┌──────────────┐
-│ Speech-to-Text│
-│   Saaras API │
-└──────┬───────┘
-       ▼
-┌─────────────────┐
-│ Conversation AI │
-│ Dynamic Questions│
-└───────┬─────────┘
-        ▼
-┌─────────────────┐
-│ Patient Context │
-└───────┬─────────┘
-        ▼
-┌─────────────────┐
-│ Doctor Summary  │
-└─────────────────┘
+     ↓
+Speech Recognition
+     ↓
+Conversation Understanding
+     ↓
+Dynamic Questions
+     ↓
+Patient History
+     ↓
+Doctor-Ready Summary
 ```
 
-**Core Stack**
+### Highlights
 
-`Python` `FastAPI` `PyTorch` `Torchaudio` `NumPy` `SciPy` `Sarvam AI` `WebSocket` `Speech AI`
+* 🎙️ Voice-based patient interaction
+* 🇮🇳 Hindi + Marathi + English
+* 🔄 Code-switched speech processing
+* 🧠 Dynamic conversational flow
+* 👤 Returning-patient memory
+* 🏥 Doctor-oriented structured summary
+* ⚡ Real-time AI interaction
+* 🔌 FastAPI backend
+
+**Focus:** `Speech AI • ASR • NLP • Healthcare AI • FastAPI`
 
 ---
 
-# 🏥 Doctor–Patient Clinical Summary AI
+## 🏥 Doctor–Patient Clinical Summary AI
 
-### `ASR × Speaker Diarization × NLP × Healthcare`
+An AI pipeline designed to transform multilingual clinical conversations into structured, speaker-labelled medical information.
 
-A clinical conversation intelligence pipeline that transforms doctor–patient conversations into structured medical summaries.
-
-### 🎯 Pipeline
+### Pipeline
 
 ```text
-Doctor / Patient Speech
-          │
-          ▼
-     Audio Processing
-          │
-          ▼
-   Speech Recognition
-          │
-          ▼
- Speaker Diarization
-          │
-          ▼
- Speaker + Transcript Alignment
-          │
-          ▼
- Clinical Information Extraction
-          │
-          ▼
- ┌─────────────────────────────┐
- │ Chief Complaint             │
- │ Symptoms                    │
- │ Diagnosis                   │
- │ Medical History             │
- │ Investigations              │
- │ Treatment Plan              │
- │ Medications                 │
- │ Progress Notes              │
- └─────────────────────────────┘
+Doctor / Patient Audio
+          ↓
+    Speech-to-Text
+          ↓
+   Speaker Diarization
+          ↓
+ Conversation Processing
+          ↓
+ Structured Clinical Data
+          ↓
+ Doctor-Friendly Summary
 ```
 
-### 🧠 Engineering Focus
+### Extracted Information
 
-* Marathi / Hindi / English
-* Code-switched conversations
-* Speaker identification
-* Doctor / Patient role detection
-* Long-form audio
-* Facts-only summarization
-* JSON structured output
-* Local / privacy-first AI architecture
-* NVIDIA GPU inference
-* ASR model research and optimization
+* Chief Complaint
+* Symptoms
+* Diagnosis
+* Progress Notes
+* Medical History
+* Investigations
+* Treatment Plan
+* Medications
 
-### Technologies
+### Key Engineering Focus
 
-`Python` `PyTorch` `NeMo` `Whisper` `ASR` `Speaker Diarization` `NLP` `FastAPI` `JSON`
+* 🎙️ ASR model evaluation
+* 🗣️ Speaker diarization
+* 🇮🇳 Indian multilingual speech
+* 🔀 Marathi / Hindi / English code-switching
+* 🧪 WER / CER / DER / JER evaluation
+* ⚙️ Pipeline optimization
+* 🔒 Local / privacy-focused AI architecture
+
+**Focus:** `ASR • Diarization • NLP • Healthcare AI • Speech Processing`
 
 ---
 
-# 🎙️ Speech AI / ASR Research
+# 🎙️ Speech AI & ASR Research
 
-I'm particularly interested in solving one of the hardest practical problems in AI:
+I'm particularly interested in solving challenging **Indian-language speech AI problems**.
 
-> **Making speech AI work reliably with Indian multilingual and code-switched conversations.**
-
-### Research Areas
+Areas I'm exploring:
 
 ```text
-             SPEECH AI
-                 │
-       ┌─────────┼─────────┐
-       ▼         ▼         ▼
-     ASR      DIARIZATION  NLP
-       │         │         │
-       ▼         ▼         ▼
-  Marathi     Speaker     Clinical
-   Hindi      Detection   Extraction
-  English      Roles       Summary
-       │         │         │
-       └─────────┼─────────┘
-                 ▼
-          INTELLIGENT SYSTEM
+ASR
+ │
+ ├── Multilingual Speech
+ ├── Code-Switched Speech
+ ├── Marathi / Hindi / English
+ ├── Speech Recognition
+ ├── Speaker Diarization
+ ├── Conversation Intelligence
+ └── Real-Time Inference
 ```
 
-### Exploring
+### Models / Technologies I explore
 
 * Whisper
 * Parakeet
 * NVIDIA NeMo
 * Sortformer
-* Speaker Diarization
-* WER / CER
-* DER / JER
-* RTF
+* PyTorch
+* Speech processing pipelines
+* WER / CER / DER / JER
 * GPU inference optimization
-* Multilingual ASR
-* Code-switching
 
 ---
 
 # 🤖 Generative AI
 
+I enjoy building applications around modern LLM capabilities.
+
 ```text
-LLMs
- │
- ├── Prompt Engineering
- │
- ├── RAG
- │
- ├── Structured Generation
- │
- ├── Tool Calling
- │
- ├── AI Agents
- │
- ├── Agentic Workflows
- │
- └── Production AI APIs
+                 ┌─────────────┐
+                 │    LLM      │
+                 └──────┬──────┘
+                        │
+       ┌────────────────┼────────────────┐
+       ▼                ▼                ▼
+    RAG / Data       AI Agents       Automation
+       │                │                │
+       └────────────────┼────────────────┘
+                        ▼
+                 Intelligent Apps
 ```
 
-### My focus
+### Areas of Interest
 
-**Not just calling an LLM API — but designing complete AI systems around it.**
+* LLM Applications
+* Prompt Engineering
+* RAG
+* AI Agents
+* Agentic AI
+* Structured Output
+* Tool Calling
+* AI Automation
+* Production AI APIs
+* Conversational AI
 
 ---
 
 # 🛠️ Tech Stack
 
-### Programming
+### 👩‍💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart" />
 </p>
 
-### AI / ML
+### 🧠 AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-`Generative AI` `LLMs` `NLP` `ASR` `Speech AI` `Computer Vision` `Machine Learning` `Deep Learning`
+`Generative AI` • `LLMs` • `NLP` • `ASR` • `Speech AI` • `Machine Learning` • `Deep Learning`
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
-### Databases & Tools
+### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux,vscode" />
 </p>
 
-### Frontend
+### 📱 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
+<img src="https://skillicons.dev/icons?i=flutter,html,css,js" />
 </p>
 
 ---
 
-# 🧩 Engineering Philosophy
+# 🧩 My Engineering Approach
 
 ```text
-                 ┌─────────────────┐
-                 │   REAL PROBLEM  │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   UNDERSTAND    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   BUILD AI      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    TEST         │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   OPTIMIZE      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    DEPLOY       │
-                 └─────────────────┘
+        PROBLEM
+           │
+           ▼
+      Understand
+           │
+           ▼
+     Research Models
+           │
+           ▼
+      Build Pipeline
+           │
+           ▼
+    Test & Evaluate
+           │
+           ▼
+   Optimize Performance
+           │
+           ▼
+     Production AI 🚀
 ```
 
-### I care about:
+I believe good AI engineering is not only about choosing a model.
 
-* ⚡ Latency
-* 🎯 Accuracy
-* 🔒 Privacy
-* 📈 Scalability
-* 🧪 Testing
-* 🐛 Debugging
-* 🧩 Maintainability
-* 🚀 Production readiness
+It's about:
+
+**Model + Data + Pipeline + Evaluation + Optimization + Product**
 
 ---
 
@@ -365,70 +280,81 @@ LLMs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanikaDSA&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanikaDSA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikaDSA&theme=transparent&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikaDSA&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikaDSA&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+# 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanikaDSA&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌱 Currently Learning
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   🤖 Advanced Generative AI                   │
-│   🧩 Agentic AI Architecture                  │
-│   🎙️ Production Speech AI                    │
-│   🧠 LLM Application Engineering              │
-│   ⚡ AI Inference Optimization                 │
-│   🔗 RAG & Vector Search                      │
-│   🚀 Production Deployment                    │
-│                                               │
-└───────────────────────────────────────────────┘
+Generative AI
+     │
+     ├── Advanced LLM Applications
+     ├── Agentic AI
+     ├── RAG Systems
+     ├── AI Automation
+     ├── Speech AI
+     ├── Multilingual ASR
+     ├── Model Optimization
+     └── Production AI Engineering
 ```
 
 ---
 
-# 💼 Open to AI Opportunities
+# 🎯 Career Focus
 
-I'm actively looking for opportunities as:
+I'm currently interested in opportunities involving:
 
-### `AI Engineer`
+**AI Engineer**
+**Generative AI Engineer**
+**Python AI Developer**
+**Machine Learning Engineer**
+**Speech AI / ASR Engineer**
+**AI Automation Engineer**
 
-### `Generative AI Developer`
-
-### `Python AI Developer`
-
-### `Machine Learning Engineer`
-
-### `AI/ML Engineer`
-
-### `Speech AI / NLP Engineer`
-
-I'm especially interested in teams building **real-world AI products**, intelligent automation and production-grade GenAI systems.
+Especially roles where I can work on **real-world AI products, LLMs, Agentic AI, Speech AI and intelligent automation.**
 
 ---
 
-# 🌐 Let's Connect
+# 💡 What I Bring
+
+| Area             | Focus                             |
+| ---------------- | --------------------------------- |
+| 🐍 Python        | AI & Backend Development          |
+| 🤖 GenAI         | LLM Applications & Agents         |
+| 🎙️ Speech AI    | ASR & Diarization                 |
+| 🧠 NLP           | Multilingual Language Processing  |
+| 🔥 PyTorch       | Deep Learning & Model Experiments |
+| ⚡ FastAPI        | AI Backend APIs                   |
+| 🏥 Healthcare AI | Voice & Clinical AI Systems       |
+| ⚙️ Automation    | Intelligent Workflows             |
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/sanikaDSA">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sanika-gurav20/">
+<img src="https://img.shields.io/badge/LinkedIn-Sanika%20Gurav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/sanikaDSA">
+<img src="https://img.shields.io/badge/GitHub-sanikaDSA-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -437,10 +363,8 @@ I'm especially interested in teams building **real-world AI products**, intellig
 
 <div align="center">
 
-### 💡 "I don't just build models. I build systems that use intelligence."
+### 🚀 Building AI. Solving Problems. Learning Every Day.
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
